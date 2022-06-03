@@ -1,2 +1,4 @@
 # VoltageRegulatorAndCurrentLimitingSource_PID
 稳压限流源PID部分
+
+基于STM32F407ZET6的稳压闭环PID，采用增量式PID
